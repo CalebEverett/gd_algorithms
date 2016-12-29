@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 old_notebooks
+.cache
+__pycache__
